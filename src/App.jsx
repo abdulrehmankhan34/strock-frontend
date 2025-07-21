@@ -46,7 +46,8 @@ function App() {
       selected: 1
     }
   };
-  console.log("test git changes");
+  console.log('dev-rehman') // this change is dev-rehman
+  console.log("test git changes"); // this was for testing
   return (
     <div style={{ maxWidth: '100vw', margin: 'auto' }}>
       <h2>📈 {ticker} Candlestick Chart</h2>
