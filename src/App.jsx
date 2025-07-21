@@ -46,7 +46,7 @@ function App() {
       selected: 1
     }
   };
-
+  console.log("test git changes");
   return (
     <div style={{ maxWidth: '100vw', margin: 'auto' }}>
       <h2>📈 {ticker} Candlestick Chart</h2>
